@@ -1,4 +1,6 @@
-## TISER: Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models
+## TISER
+
+### Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models
 
 This repository contains the data for the paper (ACL 25 Main): [Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models](https://arxiv.org/pdf/2504.05258).
 
